@@ -1,0 +1,42 @@
+.reg-card{
+    width: 350px;
+    background-color: lightgray;
+    color: white;
+    text-align: center;
+    padding: 10px 10px;
+    margin: 50px auto;
+    border-radius: 20px;
+}
+
+.title{
+    font-size: 30px;
+}
+
+.reg-card input{
+    width: 100%;
+    padding: 10px 15px;
+    font-size: 16px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    margin-top: 20px;
+    border: none;
+}
+
+.reg-card input:focus{
+    outline: 1px solid dodgerblue;
+}
+
+.reg-btn{
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: dodgerblue;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+.reg-btn:hover{
+    border: 1px solid dodgerblue;
+}

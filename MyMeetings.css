@@ -1,0 +1,42 @@
+.container{
+    width: 350px;
+    background-color: lightgray;
+    color: white;
+    padding: 10px 10px;
+    margin: 50px auto;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.title{
+    font-size: 30px;
+}
+
+.container input{
+    width: 100%;
+    padding: 10px 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 20px;
+    box-sizing: border-box;
+}
+
+.container input:hover{
+    outline: 1px solid dodgerblue;
+}
+
+.meet-btn{
+    padding: 10px 10px;
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.meet-btn:hover{
+    border: 1px solid dodgerblue;
+}
+

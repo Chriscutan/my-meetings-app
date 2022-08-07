@@ -1,0 +1,36 @@
+.log-card{
+    width: 350px;
+    background-color: lightgray;
+    padding: 10px 10px;
+    margin: 50px auto;
+    border-radius: 20px;
+}
+
+.log-card input{
+    width: 100%;
+    font-size: 16px;
+    padding: 10px 15px;
+    border-radius: 8px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    border: none;
+}
+
+.log-card input:focus{
+    outline: 1px solid dodgerblue;
+}
+
+.log-btn{
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 8px;
+    margin-top: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.log-btn:hover{
+    border: 1px solid dodgerblue;
+}

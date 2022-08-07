@@ -1,0 +1,29 @@
+.card{
+    width: 250px;
+    text-align: center;
+    padding: 10px 5px;
+    border: 1px solid lightgray;
+    border-radius: 30px;
+}
+
+.title{
+    color: black;
+    font-weight: bolder;
+}
+
+.desc{
+    font-weight: normal;
+}
+
+.meet-btn{
+    padding: 10px 30px;
+    background-color: dodgerblue;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.meet-btn:hover{
+    border: 1px solid dodgerblue;
+}
